@@ -1,0 +1,24 @@
+.skills{
+    height:100vh;
+}
+
+.technology{
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+ .skills-section{
+    font-size: 30px;
+    font-weight: 200;
+    color:rgb(10, 115, 207);;
+   text-align: center;
+ }
+.tech{
+    background: #1e1b26;
+}
+
+
+
+

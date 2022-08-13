@@ -1,0 +1,30 @@
+
+.card-container {
+    position: relative;
+    /* perspective: 1000px; */
+    cursor: pointer;
+    width: 100vw;
+    height: 90vh;
+  }
+   .project-section{
+    font-size: 30px;
+    font-weight: 200;
+    color:rgb(10, 115, 207);
+   text-align: center;
+   }
+  .card-wrapper {
+    /* perspective: 1000px; */
+    position: relative;
+    top: 30px;
+    left: 80px;
+    width: 80%;
+    height: 80%;
+    transform-style: preserve-3d;
+    transition: all 0.6s ease;
+    
+  }
+  
+  .flipped {
+    transform: rotateY(180deg);
+  }
+  
